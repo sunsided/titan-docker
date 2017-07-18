@@ -1,5 +1,7 @@
 # Titan: Lessons learned
 
+### Titan is dead. You want [JanusGraph](https://github.com/sunsided/janusgraph-docker) instead.
+
 Sources for the `Dockerfile` and surroundings:
 
 * [efaurie/docker-titan-cassandra](https://github.com/efaurie/docker-titan-cassandra)
